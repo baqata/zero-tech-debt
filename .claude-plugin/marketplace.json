@@ -1,0 +1,8 @@
+{
+  "name": "zero-tech-debt",
+  "description": "The zero-tech-debt skill for Claude Code.",
+  "owner": { "name": "baqata", "url": "https://github.com/baqata" },
+  "plugins": [
+    { "name": "zero-tech-debt", "source": "./", "description": "Makes a change read as if its final state had existed from day one: no speculative backward compatibility, migration machinery, historical wording or process residue." }
+  ]
+}

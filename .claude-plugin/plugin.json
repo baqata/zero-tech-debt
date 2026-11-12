@@ -1,0 +1,9 @@
+{
+  "name": "zero-tech-debt",
+  "version": "1.0.0",
+  "description": "Makes a change read as if its final state had existed from day one: no speculative backward compatibility, migration machinery, historical wording or process residue.",
+  "author": { "name": "baqata", "url": "https://github.com/baqata" },
+  "repository": "https://github.com/baqata/zero-tech-debt",
+  "license": "MIT",
+  "skills": ["./skills"]
+}
